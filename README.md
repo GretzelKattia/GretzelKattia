@@ -19,10 +19,11 @@ Com determinação em cada linha de código, pretendo superar os desafios que po
 
 ### Habilidades
 
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=ff7400)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=66578b)](https://docs.github.com/)
+![HTML](https://img.shields.io/badge/HTML-010101?style=for-the-badge&logo=html5&logoColor=ff7400)
+![JavaScript](https://img.shields.io/badge/JavaScript-010101?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
+[![Git](https://img.shields.io/badge/Git-010101?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-010101?style=for-the-badge&logo=github&logoColor=66578b)](https://docs.github.com/)
+![Python](https://img.shields.io/badge/python-010101?style=for-the-badge&logo=python&logoColor=eead2d)
 
 ### GitHub Stats
 
