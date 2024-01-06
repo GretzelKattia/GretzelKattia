@@ -25,6 +25,10 @@ Com determinação em cada linha de código, pretendo superar os desafios que po
 [![GitHub](https://img.shields.io/badge/GitHub-010101?style=for-the-badge&logo=github&logoColor=66578b)](https://docs.github.com/)
 ![Python](https://img.shields.io/badge/python-010101?style=for-the-badge&logo=python&logoColor=eead2d)
 
+### - Bootcamps e Certificações
+
+[<img src="https://hermes.dio.me/courses/badge/c4855a23-3b4a-4197-863e-f69abee2a8c0.png" height="50"></a>](https://web.dio.me/track/potencia-tech-ifood-programacao-do-zero)
+
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GretzelKattia&theme=transparent&bg_color=120f1d&border_color=686B93&show_icons=true&icon_color=8b8057&title_color=906893&text_color=FFF)
