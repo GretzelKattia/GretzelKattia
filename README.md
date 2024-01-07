@@ -14,16 +14,16 @@ Com determinação em cada linha de código, pretendo superar os desafios que po
 ### Conecte-se comigo
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/gretzelpenaloza)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:gretzelpenaloza@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/gretzel-kattia-l-900a66249)
+[![E-mail](https://img.shields.io/badge/-Email-120f1d?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:gretzelpenaloza@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-120f1d?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/gretzel-kattia-l-900a66249)
 
 ### Habilidades
 
-![HTML](https://img.shields.io/badge/HTML-010101?style=for-the-badge&logo=html5&logoColor=ff7400)
-![JavaScript](https://img.shields.io/badge/JavaScript-010101?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
-[![Git](https://img.shields.io/badge/Git-010101?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-010101?style=for-the-badge&logo=github&logoColor=66578b)](https://docs.github.com/)
-![Python](https://img.shields.io/badge/python-010101?style=for-the-badge&logo=python&logoColor=eead2d)
+![HTML](https://img.shields.io/badge/HTML-120f1d?style=for-the-badge&logo=html5&logoColor=ff7400)
+![JavaScript](https://img.shields.io/badge/JavaScript-120f1d?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
+[![Git](https://img.shields.io/badge/Git-120f1d?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-120f1d?style=for-the-badge&logo=github&logoColor=66578b)](https://docs.github.com/)
+![Python](https://img.shields.io/badge/python-120f1d?style=for-the-badge&logo=python&logoColor=eead2d)
 
 ### - Bootcamps e Certificações
 
@@ -39,3 +39,9 @@ Com determinação em cada linha de código, pretendo superar os desafios que po
 ### Meus Principais Desafios de Projeto DIO
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=120f1d&border_color=686B93&show_icons=true&icon_color=8b8057&title_color=906893&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
+
+
+
+
+
+
