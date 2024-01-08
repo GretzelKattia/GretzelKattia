@@ -34,7 +34,9 @@ Com determinação em cada linha de código, pretendo superar os desafios que po
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GretzelKattia&theme=transparent&bg_color=120f1d&border_color=686B93&show_icons=true&icon_color=8b8057&title_color=906893&text_color=FFF)
 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GretzelKattia&layout=compact&bg_color=120f1d&border_color=686B93&title_color=906893&text_color=FFF)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GretzelKattia&layout=compact&bg_color=120f1d&border_color=686B93&title_color=906893&text_color=FFF&langs_count=10)
+
 
 ### Meus Principais Desafios de Projeto DIO
 
