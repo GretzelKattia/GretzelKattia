@@ -37,18 +37,25 @@ Com determinação em cada linha de código, pretendo superar os desafios que po
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=906893&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<!---
+<!------>
+
 ### GitHub Stats
---->
+
+
 <div align="center">  
 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GretzelKattia&layout=compact&bg_color=120f1d&border_color=686B93&title_color=906893&text_color=FFF&langs_count=10)
+<div align="center">  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GretzelKattia&theme=transparent&bg_color=120f1d&border_color=686B93&show_icons=true&icon_color=8b8057&title_color=906893&text_color=FFF)
+  <img width="30%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GretzelKattia&layout=compact&bg_color=120f1d&border_color=686B93&title_color=906893&text_color=FFF&langs_count=10&height=195px&hide=jupyter%20notebook" />
 
+  </div>
+
+  <img width="42%" height="195px" src="https://awesome-github-stats.azurewebsites.net/user-stats/GretzelKattia?cardType=github&Background=120f1d&Text=FFF&Title=906893&Border=686B93&Ring=906893&width=41%&height=195px" />
+  <br><br>
 
 </div>
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=906893&height=120&section=footer"/>
@@ -62,5 +69,12 @@ Com determinação em cada linha de código, pretendo superar os desafios que po
 
 
 
+
+<!---
+### GitHub Stats
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GretzelKattia&layout=compact&bg_color=120f1d&border_color=686B93&title_color=906893&text_color=FFF&langs_count=10)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GretzelKattia&theme=transparent&bg_color=120f1d&border_color=686B93&show_icons=true&icon_color=8b8057&title_color=906893&text_color=FFF)
+--->
 
 
