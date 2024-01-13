@@ -47,7 +47,7 @@ Com determinação em cada linha de código, pretendo superar os desafios que po
 
 <div align="center">  
 
-  <img width="30%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GretzelKattia&layout=compact&bg_color=120f1d&border_color=686B93&title_color=906893&text_color=FFF&langs_count=10&height=195px&hide=jupyter%20notebook" />
+  <img width="34%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GretzelKattia&layout=compact&bg_color=120f1d&border_color=686B93&title_color=906893&text_color=FFF&langs_count=10&height=195px&hide=jupyter%20notebook" />
 
   </div>
 
