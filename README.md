@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=686B93&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Gretzel+Kattia.+Bem+vindo(a)!;Sinta-se+à+vontade!👋;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffc300&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Gretzel+Kattia.+Bem+vindo(a)!;Sinta-se+à+vontade!👋;)](https://git.io/typing-svg)
 
 
 Através de minha busca por conhecimento, almejo me tornar uma profissional altamente qualificada 
@@ -35,7 +35,7 @@ Com determinação em cada linha de código, pretendo superar os desafios que po
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=906893&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003554&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!------>
 
@@ -47,18 +47,18 @@ Com determinação em cada linha de código, pretendo superar os desafios que po
 
 <div align="center">  
 
-  <img width="34%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GretzelKattia&layout=compact&bg_color=120f1d&border_color=686B93&title_color=906893&text_color=FFF&langs_count=10&height=195px&hide=jupyter%20notebook" />
+  <img width="34%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GretzelKattia&layout=compact&bg_color=051923&border_color=001d3d&title_color=ffd60a&text_color=FFF&langs_count=10&height=195px&hide=jupyter%20notebook" />
 
   </div>
 
-  <img width="42%" height="195px" src="https://awesome-github-stats.azurewebsites.net/user-stats/GretzelKattia?cardType=github&Background=120f1d&Text=FFF&Title=906893&Border=686B93&Ring=906893&width=41%&height=195px" />
+  <img width="42%" height="195px" src="https://awesome-github-stats.azurewebsites.net/user-stats/GretzelKattia?cardType=github&Background=051923&Text=FFF&Title=ffd60a&Border=001d3d&Ring=ffb100&width=41%&height=195px" />
   <br><br>
 
 </div>
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=906893&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003554&height=120&section=footer"/>
 
 
 
