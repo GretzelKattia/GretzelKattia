@@ -21,11 +21,16 @@ Com determinação em cada linha de código, pretendo superar os desafios que po
 
 ### Habilidades
 
-![HTML](https://img.shields.io/badge/HTML-120f1d?style=for-the-badge&logo=html5&logoColor=ff7400)
+![HTML5](https://img.shields.io/badge/HTML-120f1d?style=for-the-badge&logo=html5&logoColor=ff7400)
 ![JavaScript](https://img.shields.io/badge/JavaScript-120f1d?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
 [![Git](https://img.shields.io/badge/Git-120f1d?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-120f1d?style=for-the-badge&logo=github&logoColor=66578b)](https://docs.github.com/)
 ![Python](https://img.shields.io/badge/python-120f1d?style=for-the-badge&logo=python&logoColor=eead2d)
+![React](https://img.shields.io/badge/React-120f1d?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-120f1d?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/java-120f1d?style=for-the-badge&logo=openjdk&logoColor=orange)
+
+
 
 ### - Bootcamps e Certificações
 
