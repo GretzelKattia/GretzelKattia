@@ -72,8 +72,9 @@ Com determinação em cada linha de código, pretendo superar os desafios que po
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=120f1d&border_color=686B93&show_icons=true&icon_color=8b8057&title_color=906893&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
 
 
-
-
+<div align="center">
+  <pre><i>“I’m not throwing away my shot!”</i></pre>
+</div>
 
 <!---
 ### GitHub Stats
