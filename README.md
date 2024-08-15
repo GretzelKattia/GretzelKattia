@@ -40,6 +40,7 @@ Com determinação em cada linha de código, pretendo superar os desafios que po
 
 
 [<img src="https://hermes.dio.me/courses/badge/c4855a23-3b4a-4197-863e-f69abee2a8c0.png" height="50"></a>](https://web.dio.me/track/potencia-tech-ifood-programacao-do-zero)
+[<img src="https://github.com/user-attachments/assets/72c09d1e-bf24-401c-a44c-c8eaf3fb1bff" height="50">](https://cursos.alura.com.br/certificate/gretzelpenaloza/challenge-decodificador-texto?lang=pt_BR)
 
 
 
